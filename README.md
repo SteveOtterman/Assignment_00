@@ -8,3 +8,4 @@ This is a test to show how to submit assignments through GitHub.
 
 Steve
 Another thing.
+I am adding a new line.
